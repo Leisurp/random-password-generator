@@ -1,0 +1,75 @@
+body {
+    background-color: 1F2937;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    margin-top: 80px;
+    margin-left: 100px;
+    zoom: 1.6;
+}
+
+#pass_title {
+    font-family: 'Karla', sans-serif;
+    font-size: 20px;
+}
+
+.title {
+
+}
+
+.title span {
+    color: 4ADF86;
+}
+
+.desc {
+    color: 898989;
+}
+
+#gen_button {
+    margin-top: 30px;
+    align-self: flex-start;
+}
+
+
+
+
+#genpass_button {
+    width: 191px;
+    height: 42px;
+    background-color: 10B981;
+    border: none;
+    border-radius: 5px
+}
+
+.line {
+    border: none;             /* Remove default 3D browser borders */
+    border-top: 2px solid #2F3E53; /* Thickness, line style, and color */
+    width: 85%;              /* Adjust width (e.g., 50% or 100px) */
+    margin: 20px 0;           /* Space above and below the line */
+}
+
+#pass_buttons {
+
+}
+
+#pass1_button {
+    width: 211px;
+    height: 39px;
+    border-radius: 5px;
+    border: none;
+    background-color: 273549;
+    color: 55F991;
+    margin-right: 20px
+}
+
+#pass2_button {
+    width: 211px;
+    height: 39px;
+    border-radius: 5px;
+    border: none;
+    background-color: 273549;
+    color: 55F991;
+
+}
