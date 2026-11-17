@@ -20,7 +20,7 @@ body {
 }
 
 .title span {
-    color: 4ADF86;
+    color: blue;
 }
 
 .desc {
@@ -38,7 +38,7 @@ body {
 #genpass_button {
     width: 191px;
     height: 42px;
-    background-color: 10B981;
+    background-color: blue;
     border: none;
     border-radius: 5px
 }
@@ -60,7 +60,7 @@ body {
     border-radius: 5px;
     border: none;
     background-color: 273549;
-    color: 55F991;
+    color: blue;
     margin-right: 20px
 }
 
@@ -70,6 +70,6 @@ body {
     border-radius: 5px;
     border: none;
     background-color: 273549;
-    color: 55F991;
+    color: blue;
 
 }
